@@ -39,3 +39,25 @@ flowchart TD
 - **Scale:** The system should be scalable
 - **Security:** The system should have security.
 - **Maitaibility:** The system should be maintainable.
+
+## Types of Frontend system design interviews
+
+```mermaid
+flowchart TD
+    A[Types of Frontend system design interviews]
+    A -->B(System Design)
+    A -->C(Product Sense)
+    A -->D(UI Architechture)
+    A -->E(Machine coding/Component design)
+```
+
+
+```mermaid
+flowchart TD
+    A[Things to consider in Frontend System Design Interviews]
+    A -->B(Requirements)
+    A -->C(Scoping 'priorization')
+    A -->D(Tech Choices)
+    A -->E(Component Architechture)
+    A -->F(Data API & Protocols & Implementation)
+```
